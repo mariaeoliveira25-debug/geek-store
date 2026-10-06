@@ -1,0 +1,1 @@
+Sistema para venda de persnagens de anime
